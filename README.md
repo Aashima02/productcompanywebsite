@@ -571,16 +571,20 @@ body{
 
 ## OUTPUT:
 ### Home Page:
-![HOMEPAGE](./home.png)
+![HOMEPAGE](./home.png)![home](https://user-images.githubusercontent.com/93427086/146675904-85e1daf0-e5aa-4017-838b-f361eb84541d.png)
+
 
 ### Products Page:
-![PRODUCT](./product.png)
+![PRODUCT](./product.png)![product](https://user-images.githubusercontent.com/93427086/146675910-95d6f6f3-9577-47c7-94c5-4e735427d4cd.png)
+
 
 ### People Page:
-![PEOPLE](./people.png)
+![PEOPLE](./people.png)![people](https://user-images.githubusercontent.com/93427086/146675914-429b1bee-9954-4872-8756-6889cb156993.png)
+
 
 ### Contact Us Page:
-![CONTACT](./contact.png)
+![CONTACT](./contact.png)![contact](https://user-images.githubusercontent.com/93427086/146675919-bad25845-d9af-4648-a63e-96426750e24a.png)
+
 
 
 ## RESULT:
