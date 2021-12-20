@@ -575,15 +575,15 @@ body{
 
 
 ### Products Page:
-![PRODUCT](./product.png)![product](https://user-images.githubusercontent.com/93427086/146676434-937aefe6-28a1-4fa9-91d3-de31b1494031.png)
+![product](https://user-images.githubusercontent.com/93427086/146676434-937aefe6-28a1-4fa9-91d3-de31b1494031.png)
 
 
 ### People Page:
-![PEOPLE](./people.png)![people](https://user-images.githubusercontent.com/93427086/146676439-19a6edcd-e9c6-47e4-ab05-14318d570e5b.png)
+![people](https://user-images.githubusercontent.com/93427086/146676439-19a6edcd-e9c6-47e4-ab05-14318d570e5b.png)
 
 
 ### Contact Us Page:
-![CONTACT](./contact.png)![contact](https://user-images.githubusercontent.com/93427086/146676449-85ef407d-3137-4b31-baa2-4302a6dee36c.png)
+![contact](https://user-images.githubusercontent.com/93427086/146676449-85ef407d-3137-4b31-baa2-4302a6dee36c.png)
 
 
 
