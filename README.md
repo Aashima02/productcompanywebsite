@@ -571,7 +571,7 @@ body{
 
 ## OUTPUT:
 ### Home Page:
-![HOMEPAGE](./home.png)![home](https://user-images.githubusercontent.com/93427086/146676428-832aa4c7-9a09-4d1f-9d2b-c3a0ee15d684.png)
+![home](https://user-images.githubusercontent.com/93427086/146676428-832aa4c7-9a09-4d1f-9d2b-c3a0ee15d684.png)
 
 
 ### Products Page:
