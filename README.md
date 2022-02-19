@@ -571,21 +571,20 @@ body{
 
 ## OUTPUT:
 ### Home Page:
+
 ![home](https://user-images.githubusercontent.com/93427086/146676428-832aa4c7-9a09-4d1f-9d2b-c3a0ee15d684.png)
 
-
 ### Products Page:
+
 ![product](https://user-images.githubusercontent.com/93427086/146676434-937aefe6-28a1-4fa9-91d3-de31b1494031.png)
 
-
 ### People Page:
+
 ![people](https://user-images.githubusercontent.com/93427086/146676439-19a6edcd-e9c6-47e4-ab05-14318d570e5b.png)
 
-
 ### Contact Us Page:
+
 ![contact](https://user-images.githubusercontent.com/93427086/146676449-85ef407d-3137-4b31-baa2-4302a6dee36c.png)
-
-
 
 ## RESULT:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
